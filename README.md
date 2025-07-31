@@ -3,7 +3,7 @@ Movie Management System For Efficiently Managing Your Movie Database
 
 ![Demo](assets/SachinthaDilsaratkinterproject.gif)
 
-## In MySQL Workbench, you can:
+## In MySQL Workbench, You can:
 
 1. Go to: Server > Data Import
 2. Choose: "Import from Self-Contained File"
