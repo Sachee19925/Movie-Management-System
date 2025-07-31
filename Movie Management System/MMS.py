@@ -1,7 +1,5 @@
 
 #Main Frame
-
-
 from pathlib import Path
 import tkinter as tk
 from tkinter import *
@@ -190,7 +188,7 @@ button_5 = Button(
     image=button_image_5,
     borderwidth=6,
     highlightthickness=0,
-    command=lambda: print("button_5 clicked"),
+    command=lambda: print("dark-knight"),
     relief="flat",
     bg="#B6B3B3",
     activebackground="#13101D"
@@ -997,6 +995,7 @@ def update_database():
             database = "movielist"
         )
         movieId = id_entry_2.get().strip()
+        moviename = name_entry_2.get().strip()
         new_update_data = (
             name_entry_3.get().strip(),
             year_entry_3.get().strip(),
@@ -1722,9 +1721,6 @@ clear__.place(
     width=109.0,
     height=47.0
 )
-
-
-
 frame1.tkraise()
 window.resizable(True, False)
 window.mainloop()
