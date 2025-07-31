@@ -1,8 +1,7 @@
 # Movie-Management-System
 Movie Management System For Efficiently Managing Your Movie Database
 
-[Watch Demo Video](assets/Sachintha%20Dilsara%20(tkinter%20project).mp4)
-
+![Demo](assets/SachinthaDilsaratkinterproject.gif)
 
 ## In MySQL Workbench, they can:
 
