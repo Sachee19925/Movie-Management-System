@@ -8,7 +8,7 @@ Movie Management System For Efficiently Managing Your Movie Database
 3. Select your movielist.sql file
 4. Choose "New Database" or select an existing one
 5. Click Start Import
-         OR
+
 ## 🗃️ How to Set Up the Database
 
 1. Install MySQL
