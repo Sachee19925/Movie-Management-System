@@ -16,4 +16,4 @@ Movie Management System For Efficiently Managing Your Movie Database
 3. Import the SQL file:
 
 ```bash
-mysql -u root -p movielist < database/movielist.sql
+mysql -u root -p movielist < movielist.sql
