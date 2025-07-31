@@ -1,6 +1,8 @@
 # Movie-Management-System
 Movie Management System For Efficiently Managing Your Movie Database
 
+![Demo](assets/SachinthaDilsaratkinterproject.gif)
+
 ## In MySQL Workbench, they can:
 
 1. Go to: Server > Data Import
